@@ -1,0 +1,33 @@
+[
+    {
+	    "id": 1,
+        "titulo": "Admirável Mundo Novo",
+        "descricao": "Um clássico moderno, o romance didtópico de Aldous Huxley é indispensável para quem busca leituras sobre autoritarismo",
+	    "autor": "Aldous Huxley",
+	    "anoPublicacao": 1932
+     },
+
+     {
+	    "id": 2,
+        "titulo": "'1984",
+        "descricao": "Uma das obras mais contundentes e influentes do século XX ganha nova e definitiva edição com projeto especial",
+	    "autor": "George Orwell",
+	    "anoPublicacao": 1949
+     },
+
+     {
+	    "id": 3,
+        "titulo": "Laranja Mecânica",
+        "descricao": "Publicado pela primeira vez em 1962, e imortalizado 9 anos depois pelo filme de Stanley Kubrick",
+	    "autor": "Anthony Burgess",
+	    "anoPublicacao": 1962
+     },
+
+     {
+	    "id": 4,
+        "titulo": "Neuromancer",
+        "descricao": "O Céu sobre o porto tinha cor de televisãonum canal fora do ar.",
+	    "autor": "William Gibson",
+	    "anoPublicacao": 1984
+     }
+]
